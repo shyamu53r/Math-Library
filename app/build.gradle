@@ -1,10 +1,10 @@
 plugins {
     id 'com.android.application'
 }
-
 android {
     namespace 'com.example.mathoperationlibrary'
     compileSdk 33
+
 
     defaultConfig {
         applicationId "com.example.mathoperationlibrary"
